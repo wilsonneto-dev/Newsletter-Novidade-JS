@@ -17,6 +17,7 @@ Para ler isto e muito mais, acesse a edição desta semana da newsletter em:<br 
 <a target="_blank" href="https://novidadesjs.substack.com/p/novidades-js-ranking-best-of-js-e?utm_source=gh-news">Ler a última edição</a>
 </p>
 
+<br /><br />
 
 <p>
   <h3>Edições passadas da newsletter:</h3>
@@ -25,6 +26,8 @@ Para ler isto e muito mais, acesse a edição desta semana da newsletter em:<br 
   <li><a target="_blank" href="https://novidadesjs.substack.com/p/novidades-js-atualizao-de-segurana?utm_source=gh-news">11/01/2021 - Novidades JS - Atualização de Segurança do Node, Server Components e acontecimentos</a></li>
   </ul>
 </p>
+
+<br /><br /><br />
 
 <hr />
 
