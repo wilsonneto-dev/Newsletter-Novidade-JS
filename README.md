@@ -5,16 +5,14 @@
   <img width="150" src="https://cdn.substack.com/image/fetch/w_264,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F650665f2-496b-4752-8890-619423a3cb0b_280x280.png" />  
 </p>
 
-25/01/2021 - Última edição
-<h2>Novidades JS - Ranking Best of JS e as novidades da semana</h2>
+15/02/2021 - Última edição
+<h2>Novidades JS - Nova versão do Typescript, NPM 7, Rust Foundation e muito mais</h2>
 <p>
-  &nbsp;&nbsp;Nesta última edição falamos sobre a públicação do Ranking "Best of JS" de 2020 que mostra quais foram as libs e frameworks JS mais utilizados em 2020, também falamos um pouco sobre um novo design system focado no ReactJS, desta vez feito pela AWS, o AWS UI. <br />
-  &nbsp;&nbsp;Outro ponto abordado foi a pesquisa que o Node.js está realizando para conhecer melhor a comunidade atual, a última pesquisa feita pelo node havia ocorrido em 2018.
-  &nbsp;&nbsp;Falamos sobre a release do Nodejs v15.6 e também sobre as novidades no Google Cloud Functions referente ao Node.js.<br />
-  Sobre mundo e tecnologia os destaques foram para o maior vazamento de dados dos últimos anos e uma falha de implementação do PIX pro parte do Itaú que acarretou em um prejuízo de mais de 1 milhão de reais.
+  &nbsp;&nbsp;Nesta última edição falamos sobre a nova Release Candidate do Typescript, NPM 7 e suas novidades, sobre grandes acontecimentos desta semana como a união de forças de gigantes da tecnologia para fundar a Rust Foundation.<br />
+  &nbsp;&nbsp;Também falamos sobre as principais notícias da semana referente a tecnologia e mundo do desenvolvimento.
 <br /><br />
 Para ler isto e muito mais, acesse a edição desta semana da newsletter em:<br />
-<a target="_blank" href="https://novidadesjs.substack.com/p/novidades-js-ranking-best-of-js-e?utm_source=gh-news">Ler a última edição</a>
+<a target="_blank" href="https://novidadesjs.substack.com/p/novidades-js-nova-verso-do-typescript?utm_source=gh-news">Ler a última edição</a>
 </p>
 
 <br /><br />
@@ -22,9 +20,18 @@ Para ler isto e muito mais, acesse a edição desta semana da newsletter em:<br 
 <p>
   <h3>Edições passadas da newsletter:</h3>
   <ul>
+
+  <li><a target="_blank" href="https://novidadesjs.substack.com/p/novidades-js-nova-verso-do-typescript?utm_source=gh-news">15/02/2021 - Novidades JS - Nova versão do Typescript, NPM 7, Rust Foundation e muito mais</a></li>
+
+  <li><a target="_blank" href="https://novidadesjs.substack.com/p/novidades-js-flash-quebrando-super?utm_source=gh-news">01/02/2021 - Novidades JS - Flash, quebrando super cookies, WebRTC e muito mais</a></li>
+
+  <li><a target="_blank" href="https://novidadesjs.substack.com/p/novidades-js-ranking-best-of-js-e?utm_source=gh-news">25/01/2021 - Novidades JS - Ranking Best of JS e as novidades da semana</a></li>
+
   <li><a target="_blank" href="https://novidadesjs.substack.com/p/novidades-js-blog-do-npm-descontinuado?utm_source=gh-news">18/01/2021 - Novidades JS - Blog do NPM descontinuado, Typescript 4.2 e outros acontecimentos</a></li>
-  <li><a target="_blank" href="https://novidadesjs.substack.com/p/novidades-js-atualizao-de-segurana?utm_source=gh-news">11/01/2021 - Novidades JS - Atualização de Segurança do Node, Server Components e acontecimentos</a></li>
-  </ul>
+
+<li><a target="_blank" href="https://novidadesjs.substack.com/p/novidades-js-atualizao-de-segurana?utm_source=gh-news">11/01/2021 - Novidades JS - Atualização de Segurança do Node, Server Components e acontecimentos</a></li>
+
+</ul>
 </p>
 
 <br /><br /><br />
