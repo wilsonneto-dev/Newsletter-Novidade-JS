@@ -8,11 +8,11 @@
 15/02/2021 - Última edição
 <h2>Novidades JS - Nova versão do Typescript, NPM 7, Rust Foundation e muito mais</h2>
 <p>
-  &nbsp;&nbsp;Nesta última edição falamos sobre a nova Release Candidate do Typescript, NPM 7 e suas novidades, sobre grandes acontecimentos desta semana como a união de forças de gigantes da tecnologia para fundar a Rust Foundation.<br />
-  &nbsp;&nbsp;Também falamos sobre as principais notícias da semana referente a tecnologia e mundo do desenvolvimento.
+  &nbsp;&nbsp;NReact atinge 10 mi de installs por semana no NPM, release do Node.js v15.9, saiu o Rust v1.50, pesquisa mostra que o Brasil é o terceiro país que mais baixou apps do mundo em 2020, e várias outras novidades da última semana.<br />
+  &nbsp;&nbsp;Também falamos sobre as principais notícias da semana referente a tecnologia e mundo do desenvolvimento, como por exemplo o Spotify adotar regime 100% remoto para todos os cargos, entre várias outras notícias importantes.
 <br /><br />
 Para ler isto e muito mais, acesse a edição desta semana da newsletter em:<br />
-<a target="_blank" href="https://novidadesjs.substack.com/p/novidades-js-nova-verso-do-typescript?utm_source=gh-news">Ler a última edição</a>
+<a target="_blank" href="https://novidadesjs.substack.com/p/novidades-js-react-mais-de-10-milhes?utm_source=gh-news">Ler a última edição</a>
 </p>
 
 <br /><br />
@@ -20,6 +20,8 @@ Para ler isto e muito mais, acesse a edição desta semana da newsletter em:<br 
 <p>
   <h3>Edições passadas da newsletter:</h3>
   <ul>
+
+  <li><a target="_blank" href="https://novidadesjs.substack.com/p/novidades-js-react-mais-de-10-milhes?utm_source=gh-news">21/02/2021 - Novidades JS - React: mais de 10 milhões de installs por semana, Node v15.9 e muito mais</a></li>
 
   <li><a target="_blank" href="https://novidadesjs.substack.com/p/novidades-js-nova-verso-do-typescript?utm_source=gh-news">15/02/2021 - Novidades JS - Nova versão do Typescript, NPM 7, Rust Foundation e muito mais</a></li>
 
