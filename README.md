@@ -6,12 +6,12 @@
 </p>
 
 05/04/2021 - Última edição
-<h2>Novidades JS - ...</h2>
+<h2>Novidades JS - Typescript 4.3 beta, Deno recebe 4,9 milhões de investimento, Next.js 10.1 lançado e muito mais</h2>
 <p>
-  ...
-<br /><br />
-Para ler isto e muito mais, acesse a edição desta semana da newsletter em:<br />
-<a target="_blank" href="https://novidadesjs.substack.com/?utm_source=gh">Ler a última edição</a>
+  Typescript 4.3 beta, Deno recebe 4,9 milhões de investimento, Next.js 10.1 lançado e muito mais, fique por dentro do que rolou mundo mundo do desenvolvimento, tecnologia e javascript na última semana.
+  <br /><br />
+  Para ler isto e muito mais, acesse a edição desta semana da newsletter em:<br />
+  <a target="_blank" href="https://novidadesjs.substack.com/p/typescript-43-beta-deno-recebe-49?utm_source=gh">Ler a última edição</a>
 </p>
 
 <br /><br />
