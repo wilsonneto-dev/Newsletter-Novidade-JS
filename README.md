@@ -20,7 +20,7 @@
   <h3>Edições passadas da newsletter:</h3>
   <ul>
 
-  <li><a target="_blank" href="https://novidadesjs.substack.com/p/nodejs-16-lancado-nextjs-102-com?utm_source=gh">15/03/2021 - Novidades JS - Nodejs 16 lançado, NextJS 10.2 com várias novidades, Redux 4.1, UX agora é parte do SEO e muito mais!</a></li>
+  <li><a target="_blank" href="https://novidadesjs.substack.com/p/nodejs-16-lancado-nextjs-102-com?utm_source=gh">03/05/2021 - Novidades JS - Nodejs 16 lançado, NextJS 10.2 com várias novidades, Redux 4.1, UX agora é parte do SEO e muito mais!</a></li>
 
   <li><a target="_blank" href="https://novidadesjs.substack.com/p/novidades-js-nova-verso-do-typescript-e5c?utm_source=gh">15/03/2021 - Novidades JS - Falha grave de seguraça no Git, Socket.IO 4 lançado, Flutter no Ubuntu, e muito mais</a></li>
 
