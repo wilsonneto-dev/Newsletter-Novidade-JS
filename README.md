@@ -10,12 +10,11 @@
 <p>
   As principais novidades da semana, no mundo da tecnologia e do javascript
   <br />
-  <br />
   Para ler acesse a edição desta semana da newsletter em:<br />
   <a target="_blank" href="https://novidadesjs.substack.com/p/typescript-43-beta-deno-recebe-49?utm_source=gh">Ler a última edição</a>
 </p>
 
-<br /><br />
+<br />
 
 <p>
   <h3>Edições passadas da newsletter:</h3>
