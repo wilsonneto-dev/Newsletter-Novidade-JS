@@ -5,12 +5,13 @@
   <img width="150" src="https://cdn.substack.com/image/fetch/w_264,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F650665f2-496b-4752-8890-619423a3cb0b_280x280.png" />  
 </p>
 
-05/04/2021 - Última edição
-<h2>Novidades JS - Typescript 4.3 beta, Deno recebe 4,9 milhões de investimento, Next.js 10.1 lançado e muito mais</h2>
+03/05/2021 - Última edição
+<h2>Nodejs 16 lançado, NextJS 10.2 com várias novidades, Redux 4.1, UX agora é parte do SEO e muito mais!</h2>
 <p>
-  Typescript 4.3 beta, Deno recebe 4,9 milhões de investimento, Next.js 10.1 lançado e muito mais, fique por dentro do que rolou mundo mundo do desenvolvimento, tecnologia e javascript na última semana.
-  <br /><br />
-  Para ler isto e muito mais, acesse a edição desta semana da newsletter em:<br />
+  As principais novidades da semana, no mundo da tecnologia e do javascript
+  <br />
+  <br />
+  Para ler acesse a edição desta semana da newsletter em:<br />
   <a target="_blank" href="https://novidadesjs.substack.com/p/typescript-43-beta-deno-recebe-49?utm_source=gh">Ler a última edição</a>
 </p>
 
@@ -19,6 +20,8 @@
 <p>
   <h3>Edições passadas da newsletter:</h3>
   <ul>
+
+  <li><a target="_blank" href="https://novidadesjs.substack.com/p/nodejs-16-lancado-nextjs-102-com?utm_source=gh">15/03/2021 - Novidades JS - Nodejs 16 lançado, NextJS 10.2 com várias novidades, Redux 4.1, UX agora é parte do SEO e muito mais!</a></li>
 
   <li><a target="_blank" href="https://novidadesjs.substack.com/p/novidades-js-nova-verso-do-typescript-e5c?utm_source=gh">15/03/2021 - Novidades JS - Falha grave de seguraça no Git, Socket.IO 4 lançado, Flutter no Ubuntu, e muito mais</a></li>
 
