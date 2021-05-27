@@ -5,13 +5,13 @@
   <img width="150" src="https://cdn.substack.com/image/fetch/w_264,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F650665f2-496b-4752-8890-619423a3cb0b_280x280.png" />  
 </p>
 
-03/05/2021 - Última edição
-<h2>Nodejs 16 lançado, NextJS 10.2 com várias novidades, Redux 4.1, UX agora é parte do SEO e muito mais!</h2>
+24/05/2021 - Última edição
+<h2>Não use node.js 10, Angular 12 lançado, Bootstrap 5, Deno 1.1, Playwright, TS 4.3 e muito mais!</h2>
 <p>
   As principais novidades da semana, no mundo da tecnologia e do javascript
   <br />
   Para ler acesse a edição desta semana da newsletter em:<br />
-  <a target="_blank" href="https://novidadesjs.substack.com/p/typescript-43-beta-deno-recebe-49?utm_source=gh">Ler a última edição</a>
+  <a target="_blank" href="https://novidadesjs.substack.com/p/nao-use-nodejs-10-angular-12-lancado">Ler a última edição</a>
 </p>
 
 <br />
